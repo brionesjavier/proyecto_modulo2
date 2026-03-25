@@ -4,3 +4,4 @@ git add 			Agrega los trabajo al stagging que es un area de preparacion ejemplo	
 git commit			Registra los cambios que se encuentra en staging  con un mensaje decriptivo	git commit -m"mensaje descriptivo"
 git status			Muestras el estado del repositorio si presenta algun cambio			git status
 git switch			Cambia la rama que se esta ocupando						git switch master	
+git branch			ver las ramas creadas								git branch -m main (cambiar nombre de rama)
