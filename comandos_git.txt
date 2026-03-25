@@ -1,0 +1,6 @@
+git --version			Muestra la version que tiene el git ejemplo 					git version 2.47.3
+git init			Inicializa un repositorio en la carpeta de trabajo				git init(crea la carppeta .git)
+git add 			Agrega los trabajo al stagging que es un area de preparacion ejemplo		git add . (se agregan todo los archivos)
+git commit			Registra los cambios que se encuentra en staging  con un mensaje decriptivo	git commit -m"mensaje descriptivo"
+git status			Muestras el estado del repositorio si presenta algun cambio			git status
+git switch			Cambia la rama que se esta ocupando						git switch master	
